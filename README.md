@@ -1,0 +1,2 @@
+# automated-Blinds-Arduino-Smartthings-Shield-Servo-on-existing-2inch-blinds
+Attempting to build some automated blind controls and integrate them in my Smartthings hub. Using the existing blinds I want to use a servo, Arduino, and a Smartthings shield to use my phone to place my blinds in one of 3 positions, open, closed up, and closed down. I would also like to incorporate a slider to be able to adjust the blinds to any position in between.
